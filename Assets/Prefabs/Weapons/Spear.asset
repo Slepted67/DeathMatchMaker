@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc75971dfad078c4c851a8b59bc740ab, type: 3}
+  m_Name: Spear
+  m_EditorClassIdentifier: 
+  displayName: Melee
+  visualPrefab: {fileID: 2755557628000438098, guid: 4e462c457174efe43997b2ffd2853167, type: 3}
+  visualLocalScale: {x: 1.35, y: 1.35, z: 1}
+  twoHanded: 1
+  damage: 16
+  swingDuration: 0.33
+  cooldown: 0.37
+  sweepArcDeg: 130
+  sweepSamples: 20
+  originOffset: 0.5
+  colliderSize: {x: 0.25, y: 1.1}
+  colliderOffset: {x: 0, y: 0.25}
+  gripLocalPos: {x: 0, y: 0}
+  gripLocalRotDeg: 0

@@ -74,4 +74,8 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
+<<<<<<< HEAD
 # End of https://www.toptal.com/developers/gitignore/api/unity
+=======
+# End of https://www.toptal.com/developers/gitignore/api/unity
+>>>>>>> 9060208 (Initial Unity Project Commit)

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd7dc50a6f03aa3429794b09f3b305fc, type: 3}
+  m_Name: RW_Staff_Pepper
+  m_EditorClassIdentifier: 
+  displayName: Ranged
+  visualPrefab: {fileID: 6065915416876456647, guid: 761650969efe1c84f9619fb36e29e504, type: 3}
+  visualLocalScale: {x: 0.85, y: 0.85, z: 1}
+  gripLocalPos: {x: 0, y: 0}
+  gripLocalRotDeg: 0
+  projectilePrefab: {fileID: 1032999167159660598, guid: ac0764e3fc0d79a4dafc04837294b46e, type: 3}
+  projectileSpeed: 14
+  projectileDamage: 3.5
+  projectileLife: 5.5
+  cooldown: 0.55
+  pattern: 3
+  spreadDeg: 8
+  burstCount: 5
+  burstInterval: 0.04
+  desiredRange: 7

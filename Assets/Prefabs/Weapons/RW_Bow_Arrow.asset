@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd7dc50a6f03aa3429794b09f3b305fc, type: 3}
+  m_Name: RW_Bow_Arrow
+  m_EditorClassIdentifier: 
+  displayName: Bow
+  visualPrefab: {fileID: 3929719356727758005, guid: a775a2cf7a5311340926cf5a1cd593b9, type: 3}
+  visualLocalScale: {x: 1, y: 1, z: 1}
+  gripLocalPos: {x: 0, y: 0}
+  gripLocalRotDeg: 80
+  projectilePrefab: {fileID: 8840625905845091883, guid: ea030ad99c7b21f478478211a3c2b7b0, type: 3}
+  projectileSpeed: 12
+  projectileDamage: 16
+  projectileLife: 5
+  cooldown: 1
+  pattern: 0
+  spreadDeg: 15
+  burstCount: 3
+  burstInterval: 0.06
+  desiredRange: 6.5
